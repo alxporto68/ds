@@ -1,2 +1,2 @@
 # ds
-Data Scienxe
+Data Science
